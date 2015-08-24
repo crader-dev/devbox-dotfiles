@@ -1,0 +1,329 @@
+{
+   "checksum": "198535ae97cc9dc0cebe1667286ce805",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13082248130000000",
+            "id": "7",
+            "name": "Github",
+            "sync_transaction_version": "26",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13082248430000000",
+            "id": "15",
+            "name": "Google Drive",
+            "sync_transaction_version": "88",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "13084236291798668",
+            "id": "40",
+            "name": "AUR (en) - Home",
+            "sync_transaction_version": "66",
+            "type": "url",
+            "url": "https://aur.archlinux.org/"
+         }, {
+            "children": [ {
+               "date_added": "13084332607908302",
+               "id": "48",
+               "name": "Dive Into Python 3",
+               "sync_transaction_version": "110",
+               "type": "url",
+               "url": "http://www.diveintopython3.net/"
+            }, {
+               "date_added": "13084403861031713",
+               "id": "56",
+               "name": "MariaDB Knowledge Base",
+               "sync_transaction_version": "133",
+               "type": "url",
+               "url": "https://mariadb.com/kb/en/"
+            }, {
+               "date_added": "13084403855518549",
+               "id": "55",
+               "name": "Basic SQL Statements - MariaDB Knowledge Base",
+               "sync_transaction_version": "134",
+               "type": "url",
+               "url": "https://mariadb.com/kb/en/mariadb/basic-sql-statements/"
+            }, {
+               "date_added": "13084493098473826",
+               "id": "62",
+               "name": "Methods GET and POST in HTML forms - what's the difference?",
+               "sync_transaction_version": "151",
+               "type": "url",
+               "url": "https://www.cs.tut.fi/~jkorpela/forms/methods.html"
+            }, {
+               "date_added": "13084422807245247",
+               "id": "61",
+               "name": "UsingVimWithDjango – Django",
+               "sync_transaction_version": "148",
+               "type": "url",
+               "url": "https://code.djangoproject.com/wiki/UsingVimWithDjango"
+            }, {
+               "date_added": "13084422329225718",
+               "id": "60",
+               "name": "Advanced tutorial: How to write reusable apps | Django documentation | Django",
+               "sync_transaction_version": "155",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/intro/reusable-apps/"
+            }, {
+               "date_added": "13084417156906795",
+               "id": "59",
+               "name": "API Reference | Django documentation | Django",
+               "sync_transaction_version": "141",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/ref/"
+            }, {
+               "date_added": "13084332655002455",
+               "id": "49",
+               "name": "Getting started | Django documentation | Django",
+               "sync_transaction_version": "111",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/intro/"
+            }, {
+               "date_added": "13084334034231447",
+               "id": "50",
+               "name": "Making queries | Django documentation | Django",
+               "sync_transaction_version": "112",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/db/queries/"
+            }, {
+               "date_added": "13084335659954132",
+               "id": "52",
+               "name": "Templates | Django documentation | Django",
+               "sync_transaction_version": "115",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/templates/"
+            }, {
+               "date_added": "13084401062499767",
+               "id": "53",
+               "name": "django-admin and manage.py | Django documentation | Django",
+               "sync_transaction_version": "118",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/ref/django-admin/"
+            }, {
+               "date_added": "13084402566828553",
+               "id": "54",
+               "name": "Django settings | Django documentation | Django",
+               "sync_transaction_version": "121",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/settings/"
+            }, {
+               "date_added": "13084409634962814",
+               "id": "57",
+               "name": "Related objects reference | Django documentation | Django",
+               "sync_transaction_version": "132",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/ref/models/relations/"
+            }, {
+               "date_added": "13084417138511517",
+               "id": "58",
+               "name": "django.core.urlresolvers utility functions | Django documentation | Django",
+               "sync_transaction_version": "137",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/ref/urlresolvers/#module-django.core.urlresolvers"
+            }, {
+               "date_added": "13084495621506670",
+               "id": "63",
+               "name": "Class-based views | Django documentation | Django",
+               "sync_transaction_version": "154",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/class-based-views/"
+            }, {
+               "date_added": "13084561422740600",
+               "id": "64",
+               "name": "Advanced testing topics | Django documentation | Django",
+               "sync_transaction_version": "158",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/testing/advanced/"
+            }, {
+               "date_added": "13084565524129104",
+               "id": "65",
+               "name": "Building and Distributing Packages with Setuptools — Setuptools documentation",
+               "sync_transaction_version": "161",
+               "type": "url",
+               "url": "http://pythonhosted.org/setuptools/setuptools.html"
+            }, {
+               "date_added": "13084578419215005",
+               "id": "66",
+               "name": "Packaging and Distributing Projects — Python Packaging User Guide documentation",
+               "sync_transaction_version": "164",
+               "type": "url",
+               "url": "https://packaging.python.org/en/latest/distributing.html"
+            }, {
+               "date_added": "13084578956476287",
+               "id": "67",
+               "name": "Virtualenv — virtualenv 13.1.0 documentation",
+               "sync_transaction_version": "167",
+               "type": "url",
+               "url": "https://virtualenv.pypa.io/en/latest/"
+            }, {
+               "date_added": "13084583182574167",
+               "id": "68",
+               "name": "User authentication in Django | Django documentation | Django",
+               "sync_transaction_version": "170",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/auth/"
+            }, {
+               "date_added": "13084590101006548",
+               "id": "69",
+               "name": "Multiple databases | Django documentation | Django",
+               "sync_transaction_version": "173",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/db/multi-db/"
+            } ],
+            "date_added": "13084334050634479",
+            "date_modified": "13084590101006548",
+            "id": "51",
+            "meta_info": {
+               "stars.id": "ssf_8302f20bfe07fdd2",
+               "stars.isSynced": "true"
+            },
+            "name": "Python+Django",
+            "sync_transaction_version": "109",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13084909121766456",
+               "id": "71",
+               "name": "Using Django | Django documentation | Django",
+               "sync_transaction_version": "186",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/"
+            }, {
+               "date_added": "13084909121766585",
+               "id": "72",
+               "name": "Writing your first Django app, part 2 | Django documentation | Django",
+               "sync_transaction_version": "187",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/intro/tutorial02/"
+            }, {
+               "date_added": "13084909121767244",
+               "id": "73",
+               "name": "Log in | Django site admin",
+               "sync_transaction_version": "185",
+               "type": "url",
+               "url": "http://127.0.0.1:8000/admin/login/?next=/admin/"
+            }, {
+               "date_added": "13084909121767603",
+               "id": "74",
+               "name": "User authentication in Django | Django documentation | Django",
+               "sync_transaction_version": "188",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/auth/"
+            }, {
+               "date_added": "13084909121767767",
+               "id": "75",
+               "name": "Multiple databases | Django documentation | Django",
+               "sync_transaction_version": "189",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/topics/db/multi-db/"
+            }, {
+               "date_added": "13084909121768029",
+               "id": "76",
+               "name": "Settings | Django documentation | Django",
+               "sync_transaction_version": "190",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.8/ref/settings/#std:setting-DATABASE_ROUTERS"
+            }, {
+               "date_added": "13084909121768294",
+               "id": "77",
+               "name": "Python/Django - Avoid saving passwords in source code - Stack Overflow",
+               "sync_transaction_version": "191",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/15327776/python-django-avoid-saving-passwords-in-source-code"
+            }, {
+               "date_added": "13084909121768673",
+               "id": "78",
+               "name": "configuration - Running Python script as root (with sudo) - what is the username of the effective user? - Stack Overflow",
+               "sync_transaction_version": "192",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/5721529/running-python-script-as-root-with-sudo-what-is-the-username-of-the-effectiv"
+            }, {
+               "date_added": "13084909121768958",
+               "id": "79",
+               "name": "please supply the engine value django - Google Search",
+               "sync_transaction_version": "193",
+               "type": "url",
+               "url": "https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=please%20supply%20the%20engine%20value%20django"
+            }, {
+               "date_added": "13084909121769204",
+               "id": "80",
+               "name": "\"settings.DATABASES is improperly configured\" error performing syncdb with django 1.4 - Stack Overflow",
+               "sync_transaction_version": "194",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/10228618/settings-databases-is-improperly-configured-error-performing-syncdb-with-djang"
+            } ],
+            "date_added": "13084909121765851",
+            "date_modified": "13084909121769204",
+            "id": "70",
+            "name": "New folder",
+            "sync_transaction_version": "185",
+            "type": "folder"
+         } ],
+         "date_added": "13082332205593807",
+         "date_modified": "13084909121769494",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13084240788066624",
+               "id": "44",
+               "name": "Home · libgdx/libgdx Wiki · GitHub",
+               "sync_transaction_version": "84",
+               "type": "url",
+               "url": "https://github.com/libgdx/libgdx/wiki"
+            }, {
+               "date_added": "13084240589150707",
+               "id": "42",
+               "name": "The life cycle · libgdx/libgdx Wiki · GitHub",
+               "sync_transaction_version": "74",
+               "type": "url",
+               "url": "https://github.com/libgdx/libgdx/wiki/The-life-cycle"
+            }, {
+               "date_added": "13084241121069667",
+               "id": "45",
+               "name": "Overview (libgdx API)",
+               "sync_transaction_version": "87",
+               "type": "url",
+               "url": "https://libgdx.badlogicgames.com/nightlies/docs/api/"
+            } ],
+            "date_added": "13084240585187875",
+            "date_modified": "13084332628379017",
+            "id": "41",
+            "meta_info": {
+               "stars.id": "ssf_33a25090a4f8eff9",
+               "stars.isSynced": "true"
+            },
+            "name": "LibGDX",
+            "sync_transaction_version": "100",
+            "type": "folder"
+         }, {
+            "date_added": "13082599630945901",
+            "id": "18",
+            "name": "Learn C++",
+            "sync_transaction_version": "30",
+            "type": "url",
+            "url": "http://www.learncpp.com/"
+         } ],
+         "date_added": "13082332205593815",
+         "date_modified": "13084334034231447",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "194",
+      "synced": {
+         "children": [  ],
+         "date_added": "13082332205593818",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
